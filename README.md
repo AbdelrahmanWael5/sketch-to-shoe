@@ -94,7 +94,6 @@ Sketch-to-Shoe
 * Train on the complete **Edges2Shoes** dataset.
 * Investigate additional conditioning mechanisms for Diffusion Transformers.
 * Evaluate **Classifier-Free Guidance (CFG)** and alternative diffusion schedulers.
-* Report quantitative evaluation metrics such as **FID** and **CLIP Score**.
 
 ---
 
